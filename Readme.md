@@ -309,7 +309,13 @@ const logger = winston.createLogger({
 
 
 
+---
+
+## 📬 Contact
+
+Built by [@Upnit-b](https://github.com/Upnit-b) — feel free to reach out via GitHub Issues for any suggestions or bugs.
 
 ---
+
 
 ⭐ **Star this repository if you found it helpful!**
