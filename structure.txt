@@ -1,0 +1,53 @@
+.
+├── api-gateway
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+│       ├── middleware
+│       ├── server.js
+│       └── utils
+├── identity-service
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+│       ├── controllers
+│       ├── middleware
+│       ├── models
+│       ├── routes
+│       ├── server.js
+│       └── utils
+├── media-service
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+│       ├── controllers
+│       ├── eventHandlers
+│       ├── middleware
+│       ├── models
+│       ├── routes
+│       ├── server.js
+│       └── utils
+├── post-service
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+│       ├── controllers
+│       ├── middleware
+│       ├── models
+│       ├── routes
+│       ├── server.js
+│       └── utils
+├── search-service
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+│       ├── controllers
+│       ├── eventHandlers
+│       ├── middleware
+│       ├── models
+│       ├── routes
+│       ├── server.js
+│       └── utils
+└── structure.txt
+
+35 directories, 16 files
